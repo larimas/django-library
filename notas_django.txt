@@ -1,0 +1,5 @@
+como funcionou pra mim:
+
+create a folder > in the folder on the terminal (if not cd name of folder) 
+put python -m django startproject mysite > create the others .py files in a folder >
+put python manage.py runserver
